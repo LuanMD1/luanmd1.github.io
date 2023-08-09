@@ -1,10 +1,11 @@
 # Santander App HomePage
-A project of creation of Santander Application, running in Flutter/Dart, creating the Santander Bank Homepage and it's functionalities.
+A project of recreation of Santander Application, developed in Flutter/Dart, creating the Santander Bank Homepage and it's basics functionalities.
 
 Available for visualization in: https://luanmd1.github.io/#/
 
+-
 
-Um projeto recriando a Página Inicial da aplicação do Banco Santander, desenvolvida em Flutter/Dart.
+Um projeto recriando a Página Inicial da aplicação do Banco Santander, e suas funcionalidades básicas de visualização, desenvolvida em Flutter/Dart.
 
 Disponível para visualização em: https://luanmd1.github.io/#/
 
